@@ -13,6 +13,8 @@
 		8E8FA94223BC9C9600998479 /* MyCoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8E8FA94023BC9C9600998479 /* MyCoreData.xcdatamodeld */; };
 		8E8FA94423BC9C9600998479 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E8FA94323BC9C9600998479 /* Assets.xcassets */; };
 		8E8FA94723BC9C9600998479 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E8FA94523BC9C9600998479 /* LaunchScreen.storyboard */; };
+		8EBA441523C7261A00B32D1A /* MYTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EBA441423C7261A00B32D1A /* MYTableViewCell.swift */; };
+		8EEF3B1C23C72BFC00B6673F /* MYTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EEF3B1B23C72BFC00B6673F /* MYTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		8E8FA94323BC9C9600998479 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8E8FA94623BC9C9600998479 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8E8FA94823BC9C9600998479 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8EBA441423C7261A00B32D1A /* MYTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MYTableViewCell.swift; sourceTree = "<group>"; };
+		8EEF3B1B23C72BFC00B6673F /* MYTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MYTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				8E8FA94523BC9C9600998479 /* LaunchScreen.storyboard */,
 				8E8FA94823BC9C9600998479 /* Info.plist */,
 				8E8FA94023BC9C9600998479 /* MyCoreData.xcdatamodeld */,
+				8EBA441423C7261A00B32D1A /* MYTableViewCell.swift */,
+				8EEF3B1B23C72BFC00B6673F /* MYTableViewController.swift */,
 			);
 			path = MyCoreData;
 			sourceTree = "<group>";
@@ -140,6 +146,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E8FA93C23BC9C9600998479 /* ViewController.swift in Sources */,
+				8EBA441523C7261A00B32D1A /* MYTableViewCell.swift in Sources */,
+				8EEF3B1C23C72BFC00B6673F /* MYTableViewController.swift in Sources */,
 				8E8FA93A23BC9C9600998479 /* AppDelegate.swift in Sources */,
 				8E8FA94223BC9C9600998479 /* MyCoreData.xcdatamodeld in Sources */,
 			);
